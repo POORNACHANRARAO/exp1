@@ -95,8 +95,8 @@ function Student() {
     <div className="student">
       <h2>Student Details</h2>
 
-      <p>Name: AMMINENI MOKSHASREE</p>
-      <p>Register Number: 2305001001</p>
+      <p>Name: kunam poorna chandra rao</p>
+      <p>Register Number: 2305001012</p>
       <p>Department: CSE</p>
     </div>
   )
